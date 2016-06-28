@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+The folder is declared with Git status, which means we'll be able to track it's history through the commits we declare further in time. 
