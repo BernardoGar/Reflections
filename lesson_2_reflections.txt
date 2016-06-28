@@ -1,3 +1,11 @@
 What happens when you initialize a repository? Why do you need to do it?
 
-The folder is declared with Git status, which means we'll be able to track it's history through the commits we declare further in time. 
+The folder is declared with Git status, which means we'll be able to track it's history through the commits we declare further in time.
+
+
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+A staging area is an intermediate between both. As a plus, it offers the capability of making the repository different from the complete WD, in case you only want to save some files or something. 
+
+

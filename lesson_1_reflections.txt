@@ -1,0 +1,40 @@
+
+Knowing that the old file had no bugs, necessarily the new file had. Then,
+Necesarily the bug was on the new ona and not in the old one. Finally, this
+meant that the bug was one of the differences, which then greatly reduced the number of lines I had to check. 
+
+When I can keep track of the history of a file I can:
+Compare why I have different results in different moments of time.
+Find typos and small mistakes more easily.
+Restore discarded changes I had done.
+Understand the whole changes and process through which the project has been.
+
+
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+Cons:
+You have to be conscius
+You have to chose
+
+Pro's:
+You pick which are the important files
+You save memory
+It is easier to locate the files and keep track of what we're doing. 
+You can coordinate commits among related files.
+
+How can you use the commands git log and git diff to view the history of files?
+
+I use git log to see all the commits I have saved (pres spacebar to see below!!!!) and when I get the commits of interest, I use git diff to see the differences. Again, use spacebar to see below.
+
+How might using version control make you more confident to make changes that could break something?
+
+If I am unsure about a change I'll make, I just have to make a commit. Then, if the change I did ruined something important, I can just come back immediately. 
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+I will use it for the projects I do with Enrique Seira, phd; to keep track of all the changes because sometimes things cannot be reversed and it's crazy! Also for all my great Data Sc projects!
+
+
+
+
